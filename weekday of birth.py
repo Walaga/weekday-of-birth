@@ -1,4 +1,12 @@
 
+#NAME                   WALAGA PRISCILLA  N. EDITH
+#REGISTRATION NUMBER    16/U/12253/PS
+
+
+
+
+
+
 import calendar  #importing inbuilt calendar module
 a=input("What is your year of birth?\n")
 b=input("Enter your month of birth  (enter number e.g for december enter 12\n")        
